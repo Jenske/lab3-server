@@ -179,3 +179,6 @@ void formList(struct list** head)
 		addToList(head, part[i]);
 	}
 }
+
+
+//привет
